@@ -14,16 +14,16 @@ function Sidebar() {
             </div>
             <div className="menu">
                 <button className="menu-item">
-                    <img src={lightningIcon} alt="Learn" className="icon" />
-                    Learn
+                    <img src={lightningIcon} alt="LEARN" className="icon" />
+                    LEARN
                 </button>
                 <button className="menu-item">
-                    <img src={crownIcon} alt="Progress" className="icon" />
-                    Progress
+                    <img src={crownIcon} alt="PROGRESS" className="icon" />
+                    PROGRESS
                 </button>
                 <button className="menu-item">
-                    <img src={profileIcon} alt="Profile" className="icon" />
-                    Profile
+                    <img src={profileIcon} alt="PROFILE" className="icon" />
+                    PROFILE
                 </button>
             </div>
         </div>
