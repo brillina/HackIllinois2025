@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+
+
+.sidebar {
+    width: 250px; /* Adjust width as needed */
+    height: 100vh; /* Full-height */
+    background-color: #f0f0f0; /* Light gray background */
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1); /* Adds shadow to the sidebar */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.sidebar .logo img {
+    width: 80%; /* Adjust size as needed */
+    margin-bottom: 20px;
+}
+
+.menu-item {
+    font-family: 'Jockey One', sans-serif; /* Setting the font family to Jockey One */
+    font-size: 16px; /* Adjust size as needed */
+    color: #333; /* Text color - adjust if needed */
+    background: #ffffff; /* Button background color */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 10px 0;
+    width: 80%; /* Adjust width */
+    text-align: center; /* Centers text inside the button */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Adds subtle shadow to buttons */
+    cursor: pointer;
+    display: block; /* Ensures the button is block-level so width and text-align work */
+}
+
+
+.menu-item:hover {
+    background-color: #e0e0e0; /* Light grey background on hover */
+}

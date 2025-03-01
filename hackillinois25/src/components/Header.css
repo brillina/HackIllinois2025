@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+
+/* Apply the font to your logo */
+.logo-text {
+  font-family: 'Jockey One', sans-serif;
+  font-size: 48px; /* Adjust size as needed */
+  color: #CC4B4B; /* Adjust color to match your logo's color */
+}
+
+.header .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header .logo img {
+    margin-left: 10px; /* Space between text and image */
+    height: 50px; /* Adjust based on your design needs */
+  }
+  
+  /* Additional styling adjustments */
+  .header nav {
+    margin-left: auto;  /* Pushes the nav to the right of the header */
+  }
+  
