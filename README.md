@@ -1,3 +1,5 @@
+# MIZU
+
 ## Inspiration
 We were inspired by an underwater theme—specifically koi fish ponds since koi fish are symbols of wealth and good fortune. We aimed to create a platform that makes managing money and learning financial literacy more interactive and engaging.
 
